@@ -15,5 +15,5 @@ let package = Package(
     targets: [
         .target(name: "PagingMenuController", dependencies: [], path: "./Pod/Classes")
     ],
-    swiftLanguageVersions: [.v4_2]
+    swiftLanguageVersions: [.v5]
 )
